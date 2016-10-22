@@ -146,7 +146,7 @@
                </sizepolicy>
               </property>
               <property name="text">
-               <string>This GUI will guide you through the process of generating scenery for FlightGear. By following the tabs at the top of the window, you will be able to downlooad data, assign materials to the various areas and finally generate some flyable scenery.</string>
+               <string>This GUI will guide you through the process of generating scenery for FlightGear. By following the tabs at the top of the window, you will be able to download data, assign materials to the various areas and finally generate some flyable scenery.</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
