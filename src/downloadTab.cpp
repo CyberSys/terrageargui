@@ -136,9 +136,9 @@ void MainWindow::on_downloadElevationButton_clicked()
     QString sourceElev = ui->elevationSourceSelect->currentText();
     QString urlElev;
     if (sourceElev == "usgs.gov (SRTM-1)"){
-        urlElev = "http://dds.cr.usgs.gov/srtm/version2_1/SRTM1/";
+        urlElev = "https://dds.cr.usgs.gov/srtm/version2_1/SRTM1/";
     } else if (sourceElev == "usgs.gov (SRTM-3)"){
-        urlElev = "http://dds.cr.usgs.gov/srtm/version2_1/SRTM3/";
+        urlElev = "https://dds.cr.usgs.gov/srtm/version2_1/SRTM3/";
 
     }
 
